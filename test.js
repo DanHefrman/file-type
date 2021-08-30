@@ -203,6 +203,9 @@ const names = {
 		'fixture-fast-web', // PDF saved from Adobe Illustrator, using the default "[Illustrator Default"] preset, but enabling "Optimize for Fast Web View"
 		'fixture-printed', // PDF printed from Adobe Illustrator, but with a PDF printer.
 	],
+	webm: [
+		'fixture-null', // EBML DocType with leading null character
+	],
 };
 
 // Define an entry here only if the file type has potential
